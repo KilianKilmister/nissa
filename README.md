@@ -1,10 +1,10 @@
-# **nissa** - the Nonchalant Intelligent Shell Script Assistant
+# nissa  
+The Nonchalant Intelligent Shell Script Assistant  
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://nissa.com/)
 [![Issues](https://img.shields.io/github/issues-raw/kiliankilmister/nissa.svg?maxAge=25000)](https://github.com/tterb/nissa/issues)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)      
 
-The Nonchalant Intelligent Shell Script Assistant
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 [![NPM](https://nodei.co/npm/nissa.png?downloads=true)](https://www.npmjs.com/package/nissa)
