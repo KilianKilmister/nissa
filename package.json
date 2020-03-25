@@ -1,0 +1,39 @@
+{
+  "name": "nissa",
+  "description": "The Nonchalant Intelligent Shell Script Assistant",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kiliankilmister/nissa",
+  "author": "kilian <kilian@catsoft.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kiliankilmister/nissa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiliankilmister/nissa/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kiliankilmister/nissa/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/nissa",
+  "engines": {
+    "node": "13.0.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-standard": "3.2.0",
+    "standard": "14.3.3"
+  },
+  "keywords": [],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
